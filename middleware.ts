@@ -8,6 +8,12 @@ const publicPaths = [
   '/register',
   '/forgot-password',
   '/reset-password',
+  '/checkout',
+  '/docs',
+  '/privacy',
+  '/terms',
+  '/support',
+  '/contact',
   '/api/webhooks/razorpay',
 ]
 
